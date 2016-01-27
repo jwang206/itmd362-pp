@@ -1,0 +1,28 @@
+header{
+    height: 205px;
+    position: relative;
+    background: url(../images/banner_medium.jpg) no-repeat 90% 0px;
+}
+
+
+nav a { 
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 5px;
+    padding: 2px;
+}
+nav {
+    text-align: center;
+    top: -102px;
+    width: 100%;
+    padding: 0px;
+    display:block;
+    border-radius: 5px;
+}
+
+footer { 
+    margin-left: 10%;
+}
