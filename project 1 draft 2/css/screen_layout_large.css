@@ -39,6 +39,13 @@ table input{
   font-size: 14.4px;
 }
 
+.btn{
+    font-size: 16px;
+    margin-left: 335px;
+
+}
+
+
 textarea { 
 	font-size: 14px;
 	resize:none;

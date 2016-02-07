@@ -53,8 +53,10 @@ div img{
 }
 
 #invitation{
-   margin-left:6%;
-   margin-top: 5%;
+  width: 350px;
+  height: 244px;
+   margin-left:10%;
+   margin-top: 2%;
 }
 
 
@@ -66,4 +68,9 @@ form textarea {
 .content{
     padding: 0 12% 12% 12%;
 
+
 }
+
+.btn{
+   margin-left: 100px;
+   }
