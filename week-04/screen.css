@@ -46,3 +46,59 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+
+
+#info{
+	width: 15em;
+	margin:0 auto;
+}
+
+html{
+	font-family: Titillium web, "Arial Black","Arial Bold",Gadget,sans-serif;
+	font-size: 1.1em;
+	line-height: 1em;
+	margin-bottom: 1em;
+	font-weight: bold;
+}
+
+p{
+	margin-bottom: 1em;
+}
+
+body{
+	line-height: 1em;
+	background-color: gray;
+}
+label{
+	display: block;
+}
+
+input{
+	display: block;
+	width: 15em;
+	height: 2em;
+	border:none;
+	border-radius: 0.3em;
+	line-height: 1em;
+	margin-top: 0.2em;
+	margin-bottom: 1em;
+}
+
+textarea{
+	width: 15em;
+	height: 15em;
+	border-radius: 0.4em;
+	margin-top: 0.2em;
+	margin-bottom: 1em;
+	border:none;
+}
+
+button, input, select, textarea{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1em;
+}
+
+
+

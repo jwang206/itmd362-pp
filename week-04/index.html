@@ -1,8 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="stylesheet" type="text/css" href="reset.css">
 <link rel="stylesheet" type="text/css" href="font_stack.css">
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Titillium+Web::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
   <title>Information Form</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
@@ -12,12 +25,15 @@
   <form action="#" id="info">
     <label for="username">Username</label>
     <input type="text" id="username" maxlength="4" name="username" />
-    <label for="telephone" type="email"> Email Address</label>
+    <label for="email"> Email Address</label>
+    <input type="email" id="email">
+    <label for="telephone">Telephone</label>
     <input id="telephone" name="telephone" />
     <label for="biography">Biography</label>
     <textarea id="biography"></textarea>
     <label for="password">Password</label>
     <input type="password" name="password" />
     <input type="submit" id="submit" name="Submit" />
+    </form>
 </body>
 </html>
