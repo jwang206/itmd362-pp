@@ -15,20 +15,23 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
+Filename:#1. gaming_laptop
 Explanation of your color choices:
+I tend to use darker color for this high-end looking gaming laptops website. Because, when we think about technology, computer, the colors come up in my mind are always silver gray, black.etc. Darker color wont draw too much attention for reader. lighter color could be used for header or footer.  
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename:#2.natural
 Explanation of your color choices:
+green is symbolic color of natural goods. 
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename:#3. Banking
 Explanation of your color choices:
-
+blue color group gives a neat feeling and it contrast with green. green is often money related as well.
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename:#4. kid's website
 Explanation of your color choices:
+It’s boy and girl friendly. blue and pink. 
