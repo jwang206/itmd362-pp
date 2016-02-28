@@ -26,11 +26,24 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1
 * How you implemented it in your sketch:
+Defer to Content
 
+"Although a crisp, beautiful UI and fluid motion are highlights of the iOS experience, the user’s content is at its heart."
+
+by moving the login box on the top of dimmed banner, it foucs what this webpage is about -- student portal login. 
+
+ 
 * HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/StartingStopping.html#//apple_ref/doc/uid/TP40006556-CH52-SW1
+"If only some app features are unavailable, display either a screen or an alert when people try to use the feature. "
+
+by adding an alert box asking people if they want to see the full website with announcements or just login box. 
+
 
 * HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
+"People tend to be unaware of the navigation experience in an app unless it doesn’t meet their expectations. "
+
+by hidding all the informations in the navigation, only when user want to explore more on the login page, they will try to check it out. this also get users focus on login box. 
