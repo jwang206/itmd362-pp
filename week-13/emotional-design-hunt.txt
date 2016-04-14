@@ -12,14 +12,14 @@ A. Photograph of the object (place in the week-13/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral:lights always makes people feel safe. 
 
-* Behavioral:
+* Behavioral: function as lamp, reading light besides my desk, and decore.
 
-* Reflective:
+* Reflective: this light was a gift from my beft friend, and she knew I like to decoreating my room. 
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. similar to the string lights, colors can give people diffrent emotion. 
+2. this string lights requires structure. We should work on the structure of our project. give our code a sturcture, so we don't lost track of where we are when we look at each other's work.
+3. the final look of our project should look pasionate and welcoming like the string lights.
